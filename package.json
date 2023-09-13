@@ -1,0 +1,19 @@
+{
+  "name": "project-can-json",
+  "version": "1.0.0",
+  "description": "verify is json and return json data if success of empty json data if failure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kriit24/project-can-json.git"
+  },
+  "keywords": [
+    "json",
+    "verify"
+  ],
+  "author": "Kuno Vaik",
+  "license": "MIT"
+}
