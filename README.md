@@ -1,14 +1,10 @@
 # PROJECT can JSON  
----
 
 ## Installation
----
 
 npm i project-can-json
 
-
 ## Usage
----
 
 In Node.js:
 ```
