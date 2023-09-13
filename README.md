@@ -14,3 +14,14 @@ Using npm:
 ```
 import canJSON from 'project-can-json';
 ```
+
+
+```
+canJSON(json_string, (json) => {
+
+    //SUCCESS
+}, (json_string) => {
+
+    //REJECT
+});
+```
